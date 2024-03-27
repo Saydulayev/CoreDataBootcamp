@@ -13,6 +13,9 @@
 		C0115A5B2BB45262005FF787 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0115A5A2BB45262005FF787 /* Preview Assets.xcassets */; };
 		C0115A5D2BB45262005FF787 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0115A5C2BB45262005FF787 /* Persistence.swift */; };
 		C0115A602BB45262005FF787 /* CoreDataBootcamp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C0115A5E2BB45262005FF787 /* CoreDataBootcamp.xcdatamodeld */; };
+		C0AF880A2BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.42.png in Resources */ = {isa = PBXBuildFile; fileRef = C0AF88072BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.42.png */; };
+		C0AF880B2BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.20.png in Resources */ = {isa = PBXBuildFile; fileRef = C0AF88082BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.20.png */; };
+		C0AF880C2BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.36.26.png in Resources */ = {isa = PBXBuildFile; fileRef = C0AF88092BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.36.26.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +26,9 @@
 		C0115A5A2BB45262005FF787 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C0115A5C2BB45262005FF787 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		C0115A5F2BB45262005FF787 /* CoreDataBootcamp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataBootcamp.xcdatamodel; sourceTree = "<group>"; };
+		C0AF88072BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.42.png"; sourceTree = "<group>"; };
+		C0AF88082BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.20.png"; sourceTree = "<group>"; };
+		C0AF88092BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.36.26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.36.26.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,7 @@
 			children = (
 				C0115A532BB45261005FF787 /* CoreDataBootcampApp.swift */,
 				C0115A552BB45261005FF787 /* ContentView.swift */,
+				C0AF88062BB483FE0067766D /* Screenshots */,
 				C0115A572BB45262005FF787 /* Assets.xcassets */,
 				C0115A5C2BB45262005FF787 /* Persistence.swift */,
 				C0115A5E2BB45262005FF787 /* CoreDataBootcamp.xcdatamodeld */,
@@ -71,6 +78,16 @@
 				C0115A5A2BB45262005FF787 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C0AF88062BB483FE0067766D /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				C0AF88082BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.20.png */,
+				C0AF88072BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.42.png */,
+				C0AF88092BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.36.26.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -131,6 +148,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0AF880C2BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.36.26.png in Resources */,
+				C0AF880A2BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.42.png in Resources */,
+				C0AF880B2BB484310067766D /* Simulator Screenshot - iPhone 15 Pro - 2024-03-27 at 17.35.20.png in Resources */,
 				C0115A5B2BB45262005FF787 /* Preview Assets.xcassets in Resources */,
 				C0115A582BB45262005FF787 /* Assets.xcassets in Resources */,
 			);
